@@ -7,7 +7,7 @@ Bitcoin Halving
 
 In this post I will discuss the forthcoming halving of Bitcoin and why it is important.
 
-Tha amount of Bitcoins in the circulation is restricted by its creator(Satoshi Nakamoto) because for a currency to be valuable it has to be scarce. The limit is set for 21 millions and currently there are 17.3 millions of bitcoins in the circulation. 
+The amount of Bitcoins in the circulation is restricted by its creator(Satoshi Nakamoto) because for a currency to be valuable it has to be scarce. The limit is set for 21 millions and currently there are 17.3 millions of bitcoins in the circulation. 
 
 Every 10 minutes miners get rewarded with new Bitcoins, as a compensation for their efforts. At the very beginning, in 2009, miners got 50 bitcoins every 10 minutes. In order to control the supply of bitcoins, the creator set up the rules that approximately every 4 years (210000 10 minutes intervals) the number of bitcoins per 10 minutes will be halved. 
 
